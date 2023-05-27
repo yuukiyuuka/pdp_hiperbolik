@@ -1,0 +1,2 @@
+tegangan(N)     massa(g)       panjang_dawai(m)
+20.0            1.0            1.0
